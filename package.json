@@ -1,10 +1,16 @@
 {
-  "name": "WnpoMogzasuVsBDXznMBPc4BeU3ZJFB3g0PKuNaqJnhmpZmzSb",
+  "name": "กบไชโย รางวัลที่1 เล่นยังไง - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.4",
   "description": "กบไชโย รางวัลที่1 หวยยี่กี ทั้งนี้ กบไชโย รางวัลที่1 Choke โชค หวยออนไลน์ มีหวยทุกชนิด กบไชโย รางวัลที่1 หรือ หวยปิงปอง จัดว่าเป็นหวยออนไลน์ยอดนิยมอันดับ 1",
   "repository": "https://github.com/gullibles-02/outdoor-04",
-  "keywords": ["กบไชโย รางวัลที่1","กบไชโย","รางวัลที่1","กบไชโย Choke","รางวัลที่1 Choke"],
+  "keywords": [
+    "กบไชโย รางวัลที่1",
+    "กบไชโย",
+    "รางวัลที่1",
+    "กบไชโย Choke",
+    "รางวัลที่1 Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
