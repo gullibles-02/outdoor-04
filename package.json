@@ -1,10 +1,24 @@
 {
-  "name": "bAthIYDpzl23ZZiEpMDEIVVtvg3xVCrqfgplW57ggF2LZtkMdJ",
+  "name": "หวยลาว ส ตา ร์ vip คืออะไร เลือกยังไง - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.62",
   "description": "หวยลาว ส ตา ร์ VIP คืออะไร จับเข้าชุดเลข ครั้น หวยลาว ส ตา ร์ VIP คืออะไร ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง 3 ตัว พร้อมหมุนไป-กลับได้ดังนี้547-574-475-45",
   "repository": "https://github.com/gullibles-02/outdoor-04",
-  "keywords": ["หวยลาว ส ตา ร์ VIP คืออะไร","หวยลาว","ส","ตา","ร์","VIP","คืออะไร","หวยลาว Ruay","ส Ruay","ตา Ruay","ร์ Ruay","VIP Ruay","คืออะไร Ruay"],
+  "keywords": [
+    "หวยลาว ส ตา ร์ VIP คืออะไร",
+    "หวยลาว",
+    "ส",
+    "ตา",
+    "ร์",
+    "VIP",
+    "คืออะไร",
+    "หวยลาว Ruay",
+    "ส Ruay",
+    "ตา Ruay",
+    "ร์ Ruay",
+    "VIP Ruay",
+    "คืออะไร Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
