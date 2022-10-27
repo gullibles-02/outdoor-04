@@ -1,13 +1,10 @@
 {
-  "name": "แท่งหวย24 ได้อย่างไร - เว็บใหม่ huaylike 2023 ล่าสุด",
+  "name": "oly0VWuS0L5o0s1YMX1mSI4t3xdVUn3PPwIFXiIrLs5PBpuZY9",
   "theme": "syntax",
   "version": "1.0.38",
   "description": "แท่งหวย24 สูตรหวยฮานอยพิเศษ โดย แท่งหวย24 Huaylike หวยไลค์ หวยออนไลน์ มีหวยทุกชนิด และหวยฮานอย Vip นั้นจะมีเทคนิคและหลักเกณฑ์เดียวกัน คอหวยฮานอยทั้งในไทยแล",
   "repository": "https://github.com/gullibles-02/outdoor-04",
-  "keywords": [
-    "แท่งหวย24",
-    "แท่งหวย24 Huaylike"
-  ],
+  "keywords": ["แท่งหวย24","แท่งหวย24 Huaylike"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
