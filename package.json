@@ -1,10 +1,13 @@
 {
-  "name": "nCdEvZKq0OSxiPMrhTTjhWPs1Wk9J0UGrY9S8EAZYWKpZtTjSO",
+  "name": "huayเครดิตฟรี เล่นยังไง - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "huayเครดิตฟรี หวยพม่า แต่ huayเครดิตฟรี Ruay รวย หวยออนไลน์ มีหวยทุกชนิด 2d ตรวจผลการออกรางวัล หวยพม่า เป็นหวยที่ออกผลรางวัลโดยอิงมาจากการ เปิด-ปิด ของตลาด",
   "repository": "https://github.com/gullibles-02/outdoor-04",
-  "keywords": ["HUAYเครดิตฟรี","HUAYเครดิตฟรี Ruay"],
+  "keywords": [
+    "HUAYเครดิตฟรี",
+    "HUAYเครดิตฟรี Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
