@@ -1,13 +1,10 @@
 {
-  "name": "ตารางคะแนนเจลีก ดูยังไง - เว็บใหม่ tubtim389 2023 ล่าสุด",
+  "name": "F7rse7cuH4vYrNzmMCaePGZ76z7zTOjwsQqhQrAm1wxheB6WLi",
   "theme": "syntax",
   "version": "1.0.55",
   "description": "ตารางคะแนนเจลีก หวยลาว เนื่องด้วย ตารางคะแนนเจลีก Tubtim389 ทับทิม789 หวยออนไลน์ มีหวยทุกชนิด ຫວຍລາວ หรือ หวยพัฒนา ( ຫວຍພັດທະນາ ) ที่กำลังเป็นที่นิยมอยู่ใน",
   "repository": "https://github.com/gullibles-02/outdoor-04",
-  "keywords": [
-    "ตารางคะแนนเจลีก",
-    "ตารางคะแนนเจลีก Tubtim389"
-  ],
+  "keywords": ["ตารางคะแนนเจลีก","ตารางคะแนนเจลีก Tubtim389"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
