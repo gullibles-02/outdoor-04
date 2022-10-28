@@ -1,18 +1,10 @@
 {
-  "name": "หวยสิงคโปร์ toto วันนี้ เล่นยังไง - เว็บใหม่ ruay 2023 ล่าสุด",
+  "name": "pFX5jVdYXfX5sBgBOdmif6BwG73T33pr5hYG3wYSe4oeHrx8vT",
   "theme": "syntax",
   "version": "1.0.79",
   "description": "หวยสิงคโปร์ toto วันนี้ เลขเน้นเลขบนแก้บนท้าวเวสสุวรรณเลขเด็ด เนื่องจาก หวยสิงคโปร์ toto วันนี้ ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง หวยซอง คู่มือเสี่ยงโชคต",
   "repository": "https://github.com/gullibles-02/outdoor-04",
-  "keywords": [
-    "หวยสิงคโปร์ TOTO วันนี้",
-    "หวยสิงคโปร์",
-    "TOTO",
-    "วันนี้",
-    "หวยสิงคโปร์ Ruay",
-    "TOTO Ruay",
-    "วันนี้ Ruay"
-  ],
+  "keywords": ["หวยสิงคโปร์ TOTO วันนี้","หวยสิงคโปร์","TOTO","วันนี้","หวยสิงคโปร์ Ruay","TOTO Ruay","วันนี้ Ruay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
