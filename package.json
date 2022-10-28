@@ -1,10 +1,20 @@
 {
-  "name": "xmTjPdbLe0JmIndaJDCsk58dQ6Qprjtj8fc9YBqBNbI6DJuAhs",
+  "name": "หวย 100x100 จ่ายเท่าไหร่ pantip สมัครยังไง - เว็บใหม่ uwin789 2023 ล่าสุด-",
   "theme": "syntax",
   "version": "1.0.66",
   "description": "หวย 100x100 จ่ายเท่าไหร่ pantip แนวทางหวยหุ้น หรือ หวย 100x100 จ่ายเท่าไหร่ pantip ที่ Uwin789 เว็บหวยออนไลน์ อันดับหนึ่ง 61065 เลขเด็ดหวยหุ้นวันนี้ แนวทาง",
   "repository": "https://github.com/gullibles-02/outdoor-04",
-  "keywords": ["หวย 100X100 จ่ายเท่าไหร่ PANTIP","หวย","100X100","จ่ายเท่าไหร่","PANTIP","หวย Uwin789","100X100 Uwin789","จ่ายเท่าไหร่ Uwin789","PANTIP Uwin789"],
+  "keywords": [
+    "หวย 100X100 จ่ายเท่าไหร่ PANTIP",
+    "หวย",
+    "100X100",
+    "จ่ายเท่าไหร่",
+    "PANTIP",
+    "หวย Uwin789",
+    "100X100 Uwin789",
+    "จ่ายเท่าไหร่ Uwin789",
+    "PANTIP Uwin789"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
